@@ -1,7 +1,7 @@
 # Reinforcement_learning
 
 
-```markdown
+
 # Chess RL Agent
 
 Welcome to the Chess RL Agent repository! Here's a comprehensive guide to help you understand, set up, and use the reinforcement learning (RL) agent designed to play chess against the Stockfish engine.
